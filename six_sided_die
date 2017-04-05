@@ -1,0 +1,7 @@
+#this is one of the five projects from knightlab northwestern university
+#link: http://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
+#this project I will be attempting to create a six sided dice rolling simulator
+#i will be attempting to apply the current knowledge I have from sololearn along with udacity
+#thanks!
+import random
+print "You rolled a" (random.randint(1,6)) '!'
